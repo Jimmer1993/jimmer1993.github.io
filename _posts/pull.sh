@@ -1,1 +1,3 @@
- git pull origin master
+#£¡/bin/sh
+git pull origin master
+exec /bin/bash

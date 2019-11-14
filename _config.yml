@@ -65,8 +65,8 @@ gitalk:
   clientID: 0c40862db19e771367c0                            #生成的clientID
   clientSecret: 97f0f503acb84b485d2265f590bd74144fbd8d15    #生成的clientSecret
   repo: jimmer1993.github.io    #仓库名称
-  owner: jimmer1993    #github用户名
-  admin: jimmer1993
+  owner: Jimmer1993    #github用户名
+  admin: Jimmer1993
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
